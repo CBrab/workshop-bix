@@ -1,0 +1,162 @@
+batch_id,event_time,actor_role,event_category,event_text
+B_B001,2026-01-15T10:31:38.180386,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B002,2026-01-15T13:19:02.770213,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B003,2026-01-15T15:17:01.372291,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B004,2026-01-15T17:24:42.562752,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B005,2026-01-15T20:22:51.147405,Operator,Operator,Rührer-Sollwert auffällig hoch; korrigiert
+B_B005,2026-01-16T03:15:54.379041,Maintenance,Maintenance,Reglerparameter geprüft
+B_B006,2026-01-15T23:12:44.569290,Operator,Operator,Rührer-Sollwert auffällig hoch; korrigiert
+B_B006,2026-01-16T06:37:03.178175,Maintenance,Maintenance,Reglerparameter geprüft
+B_B007,2026-01-16T01:55:02.510964,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B008,2026-01-16T03:53:33.411753,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B009,2026-01-16T06:51:02.402903,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B010,2026-01-16T09:14:10.280933,QC,QC,pH-Sonde geprüft / Kalibrierung empfohlen
+B_B010,2026-01-16T16:40:43.579542,Operator,Operator,Basenzufuhr erhöht zur pH-Korrektur
+B_B011,2026-01-16T12:23:26.892900,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B012,2026-01-16T20:50:59.692099,Maintenance,Maintenance,Entlüftungsfilter teilverstopft
+B_B012,2026-01-16T23:20:39.844208,Operator,Operator,"Druck kurz erhöht, anschließend stabilisiert"
+B_B013,2026-01-16T22:37:21.129771,Maintenance,Maintenance,Entlüftungsfilter teilverstopft
+B_B013,2026-01-17T00:57:25.773676,Operator,Operator,"Druck kurz erhöht, anschließend stabilisiert"
+B_B014,2026-01-16T19:05:06.696984,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B015,2026-01-16T21:58:53.571354,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B016,2026-01-16T23:30:54.344210,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B017,2026-01-17T03:13:46.506836,Operator,Operator,"Feed A wirkt zähflüssiger, Pumpenleistung angepasst"
+B_B017,2026-01-17T11:26:51.017578,QA,QA,Rohstoff-Lot im Batch Record vermerkt
+B_B018,2026-01-17T04:26:51.103948,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B019,2026-01-17T07:21:01.290583,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B020,2026-01-17T10:18:49.426920,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B021,2026-01-17T12:11:21.819402,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B022,2026-01-17T15:29:10.677438,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B023,2026-01-17T16:56:23.941518,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B024,2026-01-17T20:40:08.539231,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B025,2026-01-17T22:43:59.815982,QC,QC,pH-Sonde geprüft / Kalibrierung empfohlen
+B_B025,2026-01-18T06:10:16.669668,Operator,Operator,Basenzufuhr erhöht zur pH-Korrektur
+B_B026,2026-01-18T00:48:42.897413,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B027,2026-01-18T03:22:06.628795,Operator,Operator,Rührer-Sollwert auffällig hoch; korrigiert
+B_B027,2026-01-18T10:13:59.902616,Maintenance,Maintenance,Reglerparameter geprüft
+B_B028,2026-01-18T12:32:13.966972,Maintenance,Maintenance,Entlüftungsfilter teilverstopft
+B_B028,2026-01-18T14:57:46.706966,Operator,Operator,"Druck kurz erhöht, anschließend stabilisiert"
+B_B029,2026-01-18T08:37:13.265638,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B030,2026-01-18T10:23:44.243458,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B031,2026-01-18T13:15:21.250021,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B032,2026-01-18T15:28:33.759051,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B033,2026-01-18T18:37:03.142831,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B034,2026-01-18T20:04:01.385461,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B035,2026-01-18T23:23:14.579424,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B036,2026-01-19T02:23:08.799068,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B037,2026-01-19T04:51:58.658932,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B038,2026-01-19T07:26:17.717593,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B039,2026-01-19T08:37:52.981390,QC,QC,pH-Sonde geprüft / Kalibrierung empfohlen
+B_B039,2026-01-19T14:20:16.237860,Operator,Operator,Basenzufuhr erhöht zur pH-Korrektur
+B_B040,2026-01-19T11:58:37.156095,Operator,Operator,"Feed A wirkt zähflüssiger, Pumpenleistung angepasst"
+B_B040,2026-01-19T19:00:44.115673,QA,QA,Rohstoff-Lot im Batch Record vermerkt
+B_B041,2026-01-19T14:44:58.896606,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B042,2026-01-19T16:43:30.669011,Operator,Operator,Rührer-Sollwert auffällig hoch; korrigiert
+B_B042,2026-01-19T23:21:53.148885,Maintenance,Maintenance,Reglerparameter geprüft
+B_B043,2026-01-19T19:54:42.804682,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B044,2026-01-19T21:59:40.804918,Operator,Operator,"Feed A wirkt zähflüssiger, Pumpenleistung angepasst"
+B_B044,2026-01-20T05:03:27.784074,QA,QA,Rohstoff-Lot im Batch Record vermerkt
+B_B045,2026-01-19T23:22:24.981948,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B046,2026-01-20T02:33:56.921258,Operator,Operator,"Feed A wirkt zähflüssiger, Pumpenleistung angepasst"
+B_B046,2026-01-20T08:57:17.797520,QA,QA,Rohstoff-Lot im Batch Record vermerkt
+B_B047,2026-01-20T05:42:31.140276,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B048,2026-01-20T14:28:59.951446,Maintenance,Maintenance,Entlüftungsfilter teilverstopft
+B_B048,2026-01-20T16:53:50.050664,Operator,Operator,"Druck kurz erhöht, anschließend stabilisiert"
+B_B049,2026-01-20T18:43:41.318081,Maintenance,Maintenance,Entlüftungsfilter teilverstopft
+B_B049,2026-01-20T21:31:31.937439,Operator,Operator,"Druck kurz erhöht, anschließend stabilisiert"
+B_B050,2026-01-20T12:09:56.684406,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B051,2026-01-20T15:44:53.259410,QC,QC,pH-Sonde geprüft / Kalibrierung empfohlen
+B_B051,2026-01-20T23:12:34.095625,Operator,Operator,Basenzufuhr erhöht zur pH-Korrektur
+B_B052,2026-01-20T18:05:18.404352,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B053,2026-01-20T20:30:28.161033,Operator,Operator,Rührer-Sollwert auffällig hoch; korrigiert
+B_B053,2026-01-21T03:35:29.556942,Maintenance,Maintenance,Reglerparameter geprüft
+B_B054,2026-01-20T22:57:09.429532,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B055,2026-01-21T01:45:26.551317,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B056,2026-01-21T04:47:05.848771,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B057,2026-01-21T07:19:53.728104,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B058,2026-01-21T09:00:10.742214,Operator,Operator,"Feed A wirkt zähflüssiger, Pumpenleistung angepasst"
+B_B058,2026-01-21T16:04:44.765694,QA,QA,Rohstoff-Lot im Batch Record vermerkt
+B_B059,2026-01-21T11:02:31.120268,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B060,2026-01-21T13:59:53.730203,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B061,2026-01-21T16:29:30.624709,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B062,2026-01-21T19:16:25.218409,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B063,2026-01-21T21:16:32.212077,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B064,2026-01-22T00:00:28.495929,QC,QC,pH-Sonde geprüft / Kalibrierung empfohlen
+B_B064,2026-01-22T07:05:30.418103,Operator,Operator,Basenzufuhr erhöht zur pH-Korrektur
+B_B065,2026-01-22T02:46:53.070098,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B066,2026-01-22T04:40:00.001680,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B067,2026-01-22T07:56:51.218468,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B068,2026-01-22T10:43:20.517944,Operator,Operator,"Feed A wirkt zähflüssiger, Pumpenleistung angepasst"
+B_B068,2026-01-22T18:55:44.188999,QA,QA,Rohstoff-Lot im Batch Record vermerkt
+B_B069,2026-01-22T12:23:23.009005,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B070,2026-01-22T14:29:40.084590,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B071,2026-01-22T17:17:40.062715,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B072,2026-01-22T20:01:30.215736,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B073,2026-01-22T22:21:03.645627,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B074,2026-01-23T00:14:18.742777,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B075,2026-01-23T03:37:10.657327,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B076,2026-01-23T03:43:50.225217,Maintenance,Maintenance,Dampfventil reagiert träge
+B_B076,2026-01-23T06:55:01.975528,Operator,Operator,Heizrampe langsamer als üblich
+B_B077,2026-01-23T07:48:06.315176,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B078,2026-01-23T11:02:59.864123,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B079,2026-01-23T13:07:52.650063,QC,QC,pH-Sonde geprüft / Kalibrierung empfohlen
+B_B079,2026-01-23T19:37:23.957304,Operator,Operator,Basenzufuhr erhöht zur pH-Korrektur
+B_B080,2026-01-23T16:50:37.944497,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B081,2026-01-23T18:19:56.857011,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B082,2026-01-23T21:19:54.089069,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B083,2026-01-23T23:29:03.284185,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B084,2026-01-24T01:57:27.510810,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B085,2026-01-24T04:17:45.349581,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B086,2026-01-24T06:42:09.920639,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B087,2026-01-24T09:23:58.193914,Operator,Operator,"Feed A wirkt zähflüssiger, Pumpenleistung angepasst"
+B_B087,2026-01-24T16:18:46.784350,QA,QA,Rohstoff-Lot im Batch Record vermerkt
+B_B088,2026-01-24T11:18:48.549586,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B089,2026-01-24T15:01:58.213422,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B090,2026-01-25T00:27:32.378650,Maintenance,Maintenance,Entlüftungsfilter teilverstopft
+B_B090,2026-01-25T03:05:14.439891,Operator,Operator,"Druck kurz erhöht, anschließend stabilisiert"
+B_B091,2026-01-24T19:49:35.283581,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B092,2026-01-24T21:57:06.654928,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B093,2026-01-25T00:36:02.039196,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B094,2026-01-25T02:32:08.012224,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B095,2026-01-25T05:44:46.163018,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B096,2026-01-25T08:26:30.873243,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B097,2026-01-25T09:49:39.271113,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B098,2026-01-25T13:10:13.933177,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B099,2026-01-25T15:13:52.400519,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B100,2026-01-25T18:10:56.998452,Operator,Operator,Rührer-Sollwert auffällig hoch; korrigiert
+B_B100,2026-01-26T01:32:26.567448,Maintenance,Maintenance,Reglerparameter geprüft
+B_B101,2026-01-25T20:17:41.205563,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B102,2026-01-25T22:29:30.389938,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B103,2026-01-26T01:32:39.809347,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B104,2026-01-26T04:37:20.382629,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B105,2026-01-26T07:30:41.530879,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B106,2026-01-26T16:33:50.334313,Maintenance,Maintenance,Entlüftungsfilter teilverstopft
+B_B106,2026-01-26T19:12:55.462733,Operator,Operator,"Druck kurz erhöht, anschließend stabilisiert"
+B_B107,2026-01-26T11:48:14.965070,QC,QC,pH-Sonde geprüft / Kalibrierung empfohlen
+B_B107,2026-01-26T19:21:12.767323,Operator,Operator,Basenzufuhr erhöht zur pH-Korrektur
+B_B108,2026-01-26T13:37:40.928860,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B109,2026-01-26T16:19:03.558152,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B110,2026-01-26T18:32:30.977427,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B111,2026-01-26T21:24:22.128094,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B112,2026-01-27T00:36:29.503852,Operator,Operator,"Feed A wirkt zähflüssiger, Pumpenleistung angepasst"
+B_B112,2026-01-27T08:38:07.295619,QA,QA,Rohstoff-Lot im Batch Record vermerkt
+B_B113,2026-01-27T01:53:30.848021,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B114,2026-01-27T04:11:03.159810,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B115,2026-01-27T04:44:04.463487,Maintenance,Maintenance,Dampfventil reagiert träge
+B_B115,2026-01-27T07:12:45.125611,Operator,Operator,Heizrampe langsamer als üblich
+B_B116,2026-01-27T09:39:54.546413,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B117,2026-01-27T12:46:16.588692,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B118,2026-01-27T14:56:21.092938,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B119,2026-01-27T17:42:29.151668,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B120,2026-01-27T19:55:58.604475,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B121,2026-01-28T06:20:56.615158,Maintenance,Maintenance,Entlüftungsfilter teilverstopft
+B_B121,2026-01-28T09:03:47.299809,Operator,Operator,"Druck kurz erhöht, anschließend stabilisiert"
+B_B122,2026-01-28T00:52:39.178755,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B123,2026-01-28T02:45:45.620724,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B124,2026-01-28T06:15:07.590569,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B125,2026-01-28T08:19:33.850511,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B126,2026-01-28T11:03:44.802284,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B127,2026-01-28T13:07:29.073236,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B128,2026-01-28T15:15:24.776701,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B129,2026-01-28T17:54:22.707160,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
+B_B130,2026-01-28T22:02:04.381466,Operator,Operator,Batch verlief ohne besondere Vorkommnisse
